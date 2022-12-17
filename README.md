@@ -1,6 +1,11 @@
-<img src="/pics/logo.png" width="950px"> 
+<p align="center"><img src="https://github.com/moulelin/Pictures/raw/master/logo_cuda.png" width="950px"> </a>
 
-
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/version-1.0.0-green" alt="Version"></a>
+  <a href="#"><img src="https://img.shields.io/badge/downloads-git-g" alt="Download"></a>
+  <a href="#"><img src="https://img.shields.io/badge/licence-mit-1" alt="License"></a>
+  <a href="https://github.com/moulelin/cuda/issues"><img src="https://img.shields.io/badge/chat-issue-1)" alt="Chat"></a>
+</p>
 --------------------------------------------------------------------------------
 
 # CUDA-Extension with Pytorch
@@ -9,15 +14,21 @@
 
 * [Basic Knowledge of CUDA](https://github.com/moulelin/CUDA-NEFU/wiki/CUDA-Definition)
    
-* [How to use CUDA in DL ?](https://github.com/moulelin/CUDA-NEFU/wiki/CUDA-Grammar)
+<!-- * [CUDA/C++ with Pytorch](https://github.com/moulelin/CUDA-NEFU/wiki/CUDA-Grammar) -->
 
 * [CUDA/C++ with Pytorch](https://github.com/moulelin/CUDA-NEFU/wiki/CUDA-Pytorch)
 
-* [Research Recently](https://github.com/moulelin/CUDA-NEFU/wiki/CUDA-Research)
+<!-- * [Research Recently](https://github.com/moulelin/CUDA-NEFU/wiki/CUDA-Research) 
+-->
+
+## Tuturial
+
+* [Basic01 (**Global** function)](https://github.com/moulelin/CUDA-NEFU/wiki/CUDA-Pytorch)
+  - [**code here**](https://github.com/moulelin/cuda/tree/master/basic01)
    
 
 
-    * `WIKIPEDIA` Definition: https://en.wikipedia.org/wiki/CUDA*
+    <!-- * `WIKIPEDIA` Definition: https://en.wikipedia.org/wiki/CUDA*
 
 
 
@@ -55,7 +66,7 @@ Content of this repository:
 
 
 --------------------------------------------------------------------------------
-This material is made for presentation purposes for the Group Report of NEFU ICEC
+This material is made for presentation purposes for the Group Report of NEFU ICEC -->
 
 
 
