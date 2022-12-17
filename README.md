@@ -4,6 +4,7 @@
   <a href="#"><img src="https://img.shields.io/badge/version-1.0.0-green" alt="Version"></a>
   <a href="#"><img src="https://img.shields.io/badge/downloads-git-g" alt="Download"></a>
   <a href="#"><img src="https://img.shields.io/badge/licence-mit-1" alt="License"></a>
+<br>
   <a href="https://github.com/moulelin/cuda/issues"><img src="https://img.shields.io/badge/chat-issue-1)" alt="Chat"></a>
 </p>
 
