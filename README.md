@@ -29,6 +29,8 @@
   - [**code here**](https://github.com/moulelin/cuda/tree/master/basic01)
    
 
+* [Basic02 (**share** memory)](https://github.com/moulelin/CUDA-NEFU/wiki/CUDA-Pytorch)
+  - [**code here**](https://github.com/moulelin/cuda/tree/master/basic01)
 
     <!-- * `WIKIPEDIA` Definition: https://en.wikipedia.org/wiki/CUDA*
 
